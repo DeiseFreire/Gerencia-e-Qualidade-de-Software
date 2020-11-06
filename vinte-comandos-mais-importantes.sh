@@ -20,4 +20,4 @@ deise@debian:~$ sudo # ele permite que você execute tarefas
 deise@debian: ~$ ifconfig # se eu tentar executar esse comando 
 deise@debian: ~$ ifconfig
 bash: ifconfig: comando não encontrado 
-fabio@debian: ~$ 
+deise@debian: ~$ 
