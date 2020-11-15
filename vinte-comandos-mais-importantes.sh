@@ -20,5 +20,5 @@ executar deise@debian: ~$ sudo ifconfig # [ENTER] e aí ele vai executar o coman
 # privilégio administrativo e vai trazer a informação que eu preciso.  
 deise@debian: ~$ dnf # O fedora utiliza o dnf que é similar ao apt-get
 deise@debian: ~$ sudo apt-get update # faz o processo de ir na internet, nos repositórios configurados no sistema linux, e baixa os pacotes necessários 
-  
+deise@debian: ~$ sudo apt-get install tree # vai na internet baixa o pacote e faz a instalação 
  
