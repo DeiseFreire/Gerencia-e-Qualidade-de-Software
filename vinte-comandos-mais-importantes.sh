@@ -16,5 +16,9 @@ bash: ifconfig: comando não encontrado # ele me retorna essa mensagem
 deise@debian: ~$ 
 # Na verdade o comando existe o que não existe é a permissão para eu executar esse 
 # comando diretamente então eu posso usar o sudo seguido do comando que eu quero 
-# executar deise@debian: ~$ sudo ifconfig [ENTER] e aí ele vai executar o comando com 
-# privilégio administrativo e vai trazer a informação que eu preciso. 
+executar deise@debian: ~$ sudo ifconfig # [ENTER] e aí ele vai executar o comando com 
+# privilégio administrativo e vai trazer a informação que eu preciso.  
+deise@debian: ~$ dnf # O fedora utiliza o dnf que é similar ao apt-get
+deise@debian: ~$ sudo apt-get update # faz o processo de ir na internet, nos repositórios configurados no sistema linux, e baixa os pacotes necessários 
+  
+ 
