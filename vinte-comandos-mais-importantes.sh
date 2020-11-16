@@ -15,4 +15,8 @@ executar deise@debian: ~$ sudo ifconfig # [ENTER] e aí ele vai executar o coman
 deise@debian: ~$ dnf # O fedora utiliza o dnf que é similar ao apt-get
 deise@debian: ~$ sudo apt-get update # faz o processo de ir na internet, nos repositórios do sistema linux, e baixa os pacotes necessários 
 deise@debian: ~$ sudo apt-get install tree # vai na internet, baixa o pacote e faz a instalação 
- 
+deise@debian: ~$ cat /etc/passwd # para olhar no terminal o contéudo do arquivo
+deise@debian: ~$ /etc/passwd # esse é um arquivo que contém informações sobre as contas dos usuários do sistema
+deise@debian: ~$ mkdir # cria os diretórios para poder colocar os arquivos
+deise@debian: ~$ ls # listagem
+deise@debian: ~$ less # o arquivo longo fica quebrado em páginas e você consegue rolar para frente e para trás para visualizar o seu conteúdo
