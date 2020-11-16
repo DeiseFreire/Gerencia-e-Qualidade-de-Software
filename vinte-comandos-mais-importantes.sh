@@ -20,3 +20,4 @@ deise@debian: ~$ /etc/passwd # esse é um arquivo que contém informações sobr
 deise@debian: ~$ mkdir # cria os diretórios para poder colocar os arquivos
 deise@debian: ~$ ls # listagem
 deise@debian: ~$ less # o arquivo longo fica quebrado em páginas e você consegue rolar para frente e para trás para visualizar o seu conteúdo
+deise@debian: ~$ less etc/passwd # consigo com as setas de direção rolar para frente ou para trás a vontade para ler todo o conteúdo de arquivo de texto no terminal
