@@ -21,3 +21,4 @@ deise@debian: ~$ less etc/passwd # consigo com as setas de direção rolar para 
 deise@debian: ~$: ps # é um comando utilizado para listar os processos em execução na máquina
 deise@debian: ~$ ps aux #eu vou mostrar os processos do usuário atual e do usuário root também traz todos os usuários misturados 
 deise@debian: ~$ grep # o comando grep é um comando que é utilizado para fazer filtro para filtrar o conteúdo do texto que vai aparecer na tela, até mesmo no conteúdo de um arquivo de texto 
+deise@debian: ~$ grep "deise" /etc/passwd # posso especificar o meu nome entre aspas ou sem as aspas também deve funcionar. Traz só as linhas ou a linha específicas que contém a palavra de filtro que tem a ver com o que eu preciso fazer na máquina 
